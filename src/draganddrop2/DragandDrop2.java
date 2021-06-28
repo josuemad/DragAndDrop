@@ -34,7 +34,7 @@ public class DragandDrop2 extends Application {
         stage.setScene(scene);
         stage.show();
         
-        
+        //pruebaaa
         
     }
 
